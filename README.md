@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
--[Design Inspiration](https://www.behance.net/gallery/91986919/Quiz-App-Design)
+- [Design Inspiration](https://www.behance.net/gallery/91986919/Quiz-App-Design)
 
 ## Getting Started
 
